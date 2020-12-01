@@ -1,0 +1,56 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+# url: 'https://code-for-canada.github.io'
+baseurl: '/cohort5-cer'
+title: 'Team No-Name'
+description: 'C4C Fellows at the CER'
+permalink: pretty
+logo: "/assets/c4c-logo.svg"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About Us
+  url: /about/
+- title: Blog
+  url: /blog/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "Some of our thoughts"
+    # feature_text: |
+      # Welcome to our blog
+    # feature_image: "https://picsum.photos/2560/600?image=866"
