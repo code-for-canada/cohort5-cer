@@ -22,7 +22,7 @@ plugins:
 # Site settings
 # url: 'https://code-for-canada.github.io'
 baseurl: '/cohort5-cer'
-title: 'Team No-Name'
+title: 'Team Frienergy'
 description: 'C4C Fellows at the CER'
 permalink: pretty
 logo: "/assets/c4c-logo.svg"
