@@ -25,7 +25,7 @@ baseurl: '/cohort5-cer'
 title: 'Team Frienergy'
 description: 'C4C Fellows at the CER'
 permalink: pretty
-logo: "/assets/c4c-logo.svg"
+logo: "/assets/frienergy-logo.svg"
 
 # Pagination
 paginate: 5
