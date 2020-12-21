@@ -12,4 +12,4 @@ We're a team from cohort 5 of the [Code for Canada Fellowship program](https://c
 
 Our project will focus on improving the tools that Canadians use to participate in hearings regarding new energy projects regulated by the CER. It's still in early stages so stay tuned for updates about what that will look like more concretely.
 
-Note: this site is under construction. Stay tuned for more information.
+We plan to use this website to share quick updates about what we're working or any short insights have.
